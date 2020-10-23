@@ -3,6 +3,6 @@ Learning how to use git and github
 
 ## Titel1 
 
-### Titel3
+### Titel2
 
  Trying out links, visit [Facebook](www.facebook.com).
